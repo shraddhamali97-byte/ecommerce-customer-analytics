@@ -16,7 +16,7 @@ st.set_page_config(
 df = pd.read_csv("final_customer_dashboard_data.csv")
 
 # Original Retail Dataset
-retail_df = pd.read_csv("online_retail.csv")
+retail_df = pd.read_csv("online_retail_small.csv")
 
 # ---------------- DATA CLEANING ----------------
 
